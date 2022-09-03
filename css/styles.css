@@ -118,7 +118,7 @@ header #menu a:hover {
 .conteudo #inicio .titulo .imagem-fundo {
     background-image: 
         linear-gradient(rgba(0,0,0,0.25), rgba(0,0,0,1)),
-        url("./assets/football-jogo.jpg");
+        url("../assets/football-jogo.jpg");
     background-size: cover;
     background-position: center;
     height: 700px;
@@ -168,7 +168,7 @@ header #menu a:hover {
 }
 
 .conteudo #inicio .conteudo-inicio .texto .imagem {
-    background-image: url("./assets/football-campo.jpg");
+    background-image: url("../assets/football-campo.jpg");
     background-size: cover;
     background-position: center;
     border-radius: 10px;
@@ -177,7 +177,7 @@ header #menu a:hover {
 }
 
 .conteudo #inicio .conteudo-inicio .bar .texto .imagem {
-    background-image: url('./assets/bar.jpg');
+    background-image: url('../assets/bar.jpg');
 }
 
 .conteudo #inicio .conteudo-inicio .reservas .texto {
